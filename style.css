@@ -1,0 +1,10 @@
+h1{
+    background-color: aqua;
+    text-decoration: blue;
+}
+
+.work_with_div{
+    border: blue 8px solid;
+    font-style: italic;
+    font-size: 30px;
+}
